@@ -44,10 +44,10 @@ const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/abdelouahab-boumaraf/"><img src={navIcon1} alt="" /></a>
-                <a href="https://github.com/abdelouhabhub"><img src={navIcon4} alt="" /></a>
-                <a href="https://web.facebook.com/abdelouahabbmrf/"><img src={navIcon2} alt="" /></a>
-                <a href="https://www.instagram.com/a.b.d_0.u/"><img src={navIcon3} alt="" /></a>
+                <a href="https://www.linkedin.com/in/abdelouahab-boumaraf/" target="_blank"><img src={navIcon1} alt="" /></a>
+                <a href="https://github.com/abdelouhabhub" target="_blank"><img src={navIcon4} alt="" /></a>
+                <a href="https://web.facebook.com/abdelouahabbmrf/" target="_blank"><img src={navIcon2} alt="" /></a>
+                <a href="https://www.instagram.com/a.b.d_0.u/" target="_blank"><img src={navIcon3} alt="" /></a>
               </div>
             </span>
           </Navbar.Collapse>
